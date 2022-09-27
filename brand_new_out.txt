@@ -1,0 +1,12 @@
+test_directory/nick_fanclub/we_love_nick.txt:3: The
+test_directory/peeta.txt:1: The Hunger Games is a 2012 American dystopian 
+test_directory/peeta.txt:4: nstallment in The Hunger Games film series and was 
+test_directory/peeta.txt:6:  by Ross, Collins, and Billy Ray. The film stars Jennifer
+test_directory/peeta.txt:8:    Lenny Kravitz, Stanley Tucci, and Donald Sutherland. The film is set in a
+test_directory/peeta.txt:11:     "tributes" and forced to compete in The Hunger Games, an elaborate
+test_directory/katniss.txt:1: The Hunger Games is a 2012 American dystopian action film directed by 
+test_directory/katniss.txt:3: It is the first installment in The Hunger Games film series and was 
+test_directory/katniss.txt:5: Collins, and Billy Ray. The film stars Jennifer Lawrence, 
+test_directory/katniss.txt:7: Lenny Kravitz, Stanley Tucci, and Donald Sutherland. The film is set 
+test_directory/katniss.txt:10:  "tributes" and forced to compete in The Hunger Games, an elaborate televised 
+Goodbye! Thank you and have a nice day.
